@@ -1,0 +1,6 @@
+{
+  "name": "Padrão de Cassino — Roleta",
+  "description": "Sistema profissional e independente de análise de padrões, estatísticas em tempo real, racetrack europeu, estratégias avançadas e gestão de risco para Roleta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
